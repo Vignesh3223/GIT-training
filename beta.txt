@@ -1,3 +1,4 @@
 Welcome Trainers !!!
 Hello, EVERYONE let's start our GIT training.
+First of all Learn the basic GIT COMMANDS.
 
